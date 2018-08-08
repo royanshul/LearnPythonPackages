@@ -65,3 +65,33 @@ Video Processing
 ✔moviepy https://lnkd.in/gq6Mwby
 
 ✔scikit-video https://lnkd.in/gpqSDVP
+
+1. Tree Based Methods 
+a. Decision Trees - https://lnkd.in/gBtCk9G
+b. Random Forest - https://lnkd.in/g9FkczK
+c. Gradient Boosting Trees - https://lnkd.in/gFPFGsk
+
+2. Linear (Regularized) Models 
+a. Lasso & Ridge - https://lnkd.in/g3dJT-g
+b. Linear Regression - https://lnkd.in/g7As6Ar
+c. Logistic Regression - https://lnkd.in/gq4EyJc
+
+3. Hypothesis Testing & Confidence
+a. A/B Testing - https://lnkd.in/gmeijHV
+b. Chi Square Test - https://lnkd.in/gG6vz2T
+c. Statistical Tests - https://lnkd.in/gJcfTsq
+
+4. Resampling Methods 
+a. Bootstrapping and Bagging - https://lnkd.in/gPmm4by
+b. Cross Validation - https://lnkd.in/gsfsE6y
+
+5. Clustering K-Means 
+https://lnkd.in/gvNsp8N
+
+6. Feature Selection 
+https://lnkd.in/gdCBWpB
+
+7. Evaluation Metrics
+a. Classification Metrics - https://lnkd.in/gxeyC6n
+b. Regression Metrics - https://lnkd.in/gj4Eg9p
+
